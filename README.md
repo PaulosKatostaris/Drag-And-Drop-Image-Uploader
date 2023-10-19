@@ -1,1 +1,1 @@
-Drag And Drop Image Uploader project created with HTML,CSS and JavaScript in Greek language
+Drag And Drop Image Uploader
